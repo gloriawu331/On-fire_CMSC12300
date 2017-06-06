@@ -5,7 +5,7 @@ This is the Github repository for CS project of CMSC12300/CAPP30123.
 Group name: On-Fire
 
 
-Group member (by order of the last name):
+Group member (by order of last name):
 	Zhou Leng, Weijia Li, Xinzhu Sun, Xingyun Wu
 
 

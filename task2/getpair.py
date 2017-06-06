@@ -10,7 +10,7 @@
 #       the file of all records, or the file for a subset of data.
 
 # Run it using:
-#   python3 Mapdiff.py --jobconf mapreduce.job.reduces=1 data.csv > results.txt
+#   python3 getpair.py --jobconf mapreduce.job.reduces=1 data.csv > results.txt
 
 import os
 from mrjob.job import MRJob

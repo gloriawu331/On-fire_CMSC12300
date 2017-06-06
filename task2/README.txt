@@ -1,4 +1,4 @@
-CAPP 30123: Final Project
+CMSC12300/CAPP 30123: Final Project
 
 
 This is the second task of big data analysis: flows of weather change
@@ -60,6 +60,12 @@ Run it using:
 
 4. count.py
 
-This file is used to extract information to plot all the temperature changes along the 10 years.
+This file is used to generate the num counts of big temperature change each date from 2006 to 2016.
+
+Input:
+    a data file containing records with big temperature changes. Could be the file of all records, or the file for a subset of data.
+
+Run it using:
+    python3 count.py --jobconf mapreduce.job.reduces=1 results.txt > count.txt
 
 ###################

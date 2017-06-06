@@ -5,7 +5,7 @@ from mrjob.step import MRStep
 import numpy as np
 
 # MapReduce + temp difference
-# Use MapReduce to generate temp diff that larger then 100. 
+# Use MapReduce to generate temp diff that larger then 80. 
 # Save the results into tex/csvt file
 # Use MapReduce to find different stations that experience same trend in the similar time duration, for example, 7 days.
 # Analyze the wind direction and latitude, longitude of the station, find whether the airstream affect one station then the other.
