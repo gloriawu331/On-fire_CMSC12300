@@ -4,7 +4,7 @@ CAPP 30123: Final Project
 This is the first step of this project: Data Preparation
 
 
-Subsets taken:
+Substeps taken:
     1. Collect urls for all the targeted data files.
     2. Get data and store them on Google cloud using wget.
     3. Clean data by omitting redundant variables and aggregate data files by station.
