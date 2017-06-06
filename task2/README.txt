@@ -60,12 +60,12 @@ Run it using:
 
 4. count.py
 
-This file is used to generate the num counts of each date over 2006 to 2016.
+This file is used to generate the num counts of big temperature change each date from 2006 to 2016.
 
 Input:
     a data file containing records with big temperature changes. Could be the file of all records, or the file for a subset of data.
 
 Run it using:
-    python3 count.py --jobconf mapreduce.job.reduces=1 results.csv > count.txt
+    python3 count.py --jobconf mapreduce.job.reduces=1 results.txt > count.txt
 
 ###################
