@@ -1,4 +1,4 @@
-# On-fire_CMSC12300: Computer Science with Applications-3
+CMSC12300/CAPP30123: Final Project, Computer Science with Applications-3
 This is the Github repository for CS project of CMSC12300/CAPP30123.
 
 
