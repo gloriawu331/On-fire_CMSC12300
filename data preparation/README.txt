@@ -1,4 +1,4 @@
-CAPP 30123: Final Project
+CMSC12300/CAPP 30123: Final Project
 
 
 This is the first step of this project: Data Preparation
@@ -13,7 +13,12 @@ Substeps taken:
 
 Files:
 
-1. clean_aggregation.py
+1.get_url_list_by_year.py
+This file is used to gether all url to download station csv file from year 2006 - 2016.
+
+#######################
+
+2. clean_aggregation.py
 
 This file is used to aggregate files of each year the same station.
 
@@ -35,7 +40,7 @@ To run this in shell, put this .py file in the folder storing all the data
 
 ########################
 
-2. get_station_id.py
+3. get_station_id.py
 
 This file is used to get the identifiers (unique filenames) of all the 
     stations, for doing pairwise comparison in the next step.
